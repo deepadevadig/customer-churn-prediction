@@ -100,5 +100,5 @@ Python, pandas, NumPy, scikit-learn, XGBoost, SHAP, Plotly, Streamlit, joblib.
 
 ## Author
 
-**[Your Name]**
-[LinkedIn](#) · [GitHub](#) · [Email](mailto:your.email@example.com)
+**Deepa Devadig**
+[LinkedIn](https://www.linkedin.com/in/deepa-devadig/)  · [Email](deepadevadig09@gmail.com)
